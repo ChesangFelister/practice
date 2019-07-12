@@ -1,0 +1,27 @@
+
+body{background-color: #eeeeee}
+
+
+
+.content h1{background-color: #cccccc;
+	color: red;
+
+	}
+.content{width: 700px;
+	text-align: center;
+	font-size: 20px;
+	margin: 20px auto;
+	background-color: white;
+	
+	
+
+}
+
+
+
+/*body{background-image: url(img/sad love.jpg);
+	background-repeat: no-repeat;
+	background-position:right; 
+	background-attachment: fixed;
+	background-size: cover;
+}

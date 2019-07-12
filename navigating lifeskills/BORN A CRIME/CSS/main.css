@@ -1,0 +1,6 @@
+html{background-color: orange;
+background-image: url(image/travor.jpg);}
+
+.image{width: 300px;
+		border: 3px solid blue;
+}
